@@ -4,7 +4,7 @@
 
 - 📫 How to reach me ...
 
-lavaxirisi123@gmail.com
+ezbuylk2020@gmail.com
 +94725331811
 
 <!---
