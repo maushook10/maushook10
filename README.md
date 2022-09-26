@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 ezbuylk2020@gmail.com
-+94725331811
++94725331811/ +94765812708
 
 <!---
 maushook10/maushook10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
