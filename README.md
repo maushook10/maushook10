@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about crafting high-quality softwar
 
 ## 🚀 Skills and Expertise
 
-- **Languages:** [PHP, JS, HTML/CSS, Dart, Java etc]
+- **Languages:** [PHP, JS, HTML/CSS, Dart, Java, Python etc]
 - **Frameworks:** [Laravel, Vue.js, Flutter, React Native]
 - **Technologies:** [Firebase, MySQL, JSON, AWS (Amazon Web Services: Learning Basic Level)]
 - **Tools:** [Visual Studio Code, inteliJ,  Sublime Text, Android Studio, Xcode, Figma, Adobe XD etc]
@@ -21,9 +21,10 @@ Welcome to my GitHub profile! I'm passionate about crafting high-quality softwar
 
 Here are some of my notable projects and contributions:
 
-- [Project 1](link) 
-- [Project 2](link)
-- [Project 3](link):
+- [Android POS]([link](https://github.com/maushook10/Android_POS)):
+- [Flutter_Ecommerce_UI]([link](https://github.com/maushook10/Flutter_Ecommerce_UI/tree/main/ecommerce_ui)) 
+- [Facebook_Marketplace_Autolisting] ([link](https://github.com/maushook10/Facebook_Marketplace_Autolisting)): 
+
 
 Feel free to explore my GitHub repositories for more examples of my works, but im not be able to show you some of my private project you can DM me if your intrested in.
 
