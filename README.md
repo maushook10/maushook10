@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm passionate about crafting high-quality softwar
 
 Here are some of my notable projects and contributions:
 
-- [Android POS]([link](https://github.com/maushook10/Android_POS)):
-- [Flutter_Ecommerce_UI]([link](https://github.com/maushook10/Flutter_Ecommerce_UI/tree/main/ecommerce_ui)) 
+- [Android POS] ([link](https://github.com/maushook10/Android_POS)):
+- [Flutter_Ecommerce_UI] ([link](https://github.com/maushook10/Flutter_Ecommerce_UI/tree/main/ecommerce_ui)):   
 - [Facebook_Marketplace_Autolisting] ([link](https://github.com/maushook10/Facebook_Marketplace_Autolisting)): 
 
 
